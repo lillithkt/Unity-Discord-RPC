@@ -1,0 +1,22 @@
+{
+    "name": "LillithDiscordRPCWorldsProvider",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6e9c6119ac4eb334284fb7b4bc6d1f05",
+        "GUID:e1236f734598b334ea9194cbb2c16182",
+        "GUID:b86a2c45e07cba7419c757a0a689fd50",
+        "GUID:6490804aa441dfe4b88eb56cccbdf081"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "VRC_SDK_VRCSDK3",
+        "UDON"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

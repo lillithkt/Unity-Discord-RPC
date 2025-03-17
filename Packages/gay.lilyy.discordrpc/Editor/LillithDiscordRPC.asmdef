@@ -1,0 +1,16 @@
+{
+    "name": "LillithDiscordRPC",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b86a2c45e07cba7419c757a0a689fd50"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

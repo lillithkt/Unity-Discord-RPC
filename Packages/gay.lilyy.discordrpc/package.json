@@ -1,0 +1,9 @@
+{
+    "name": "gay.lilyy.discordrpc",
+    "displayName": "Lillith's Discord RPC",
+    "description": "An editor package to show your current project. Support for VRChat avatars and worlds, showing the bundle name and image",
+    "version": "1.0.0",
+    "vpmDependencies": {
+        "com.vrchat.base": "*"
+    }
+}
